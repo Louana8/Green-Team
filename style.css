@@ -1,7 +1,14 @@
+h1 {
+	text-align: center;
+	font-family: serif;
+}
+h2 {
+	text-align: center;
+	font-family: serif;
+}
 
 .topnav {
 	background-color: rgb(134, 179, 0);
-	align-content: center;
   overflow: hidden;
 }
 
@@ -9,4 +16,14 @@
 	text-align: center;
   display: block;
   color: black;
+	float: left;
+	padding: 20px;
+	font-weight: bold;
+	font-size: 16px
+}
+
+.topnav input[type=text] {
+	float: right;
+	padding: 12px;
+	margin: 8px;
 }
