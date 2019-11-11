@@ -1,7 +1,9 @@
-body {
-	color: rgb(65,75,86);
-  font-family: arial;
-  margin: 0;
+topnav {
+	background-color: rgb(134, 179, 0);
+	align-items: center;
+}
+topnav a{
+	text-align: center;
 }
 
 div {
