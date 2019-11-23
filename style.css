@@ -2,7 +2,13 @@
 body {
 
 	font-family:serif;
+	margin-top: 40px;
 }
 /*Color for example only- to change*/
-.jumbotron {background-color: #71da71
+.jumbotron {
+	 background-color: #b4e4b4
+}
+
+.form-inline {
+	float: right;
 }
