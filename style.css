@@ -5,6 +5,9 @@ body {
 	margin-top: 40px;
 }
 
+/* a custom green cursor*/
+* {cursor: url(http://cur.cursors-4u.net/cursors/cur-2/cur102.cur), auto !important;}
+
 /*Color for example only- to change*/
 .jumbotron {
 	 background-color: #b4e4b4;
