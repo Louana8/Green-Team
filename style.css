@@ -16,6 +16,27 @@ body {
 	float: right;
 }
 
+/*changing link colours*/
+/* unvisited link */
+a:link {
+  color: #ff8000;
+}
+
+/* visited link */
+a:visited {
+  color: #ff8000;
+}
+
+/* mouse over link */
+a:hover {
+  color: #45ba45;
+}
+
+/* selected link */
+a:active {
+  color: #c7eac7;
+}
+
 /*styling the table for the columns*/
 table {
   font-family: arial, sans-serif;
