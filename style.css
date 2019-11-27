@@ -4,17 +4,20 @@ body {
 	font: helvetica;
 	margin-top: 40px;
 }
+
 /*Color for example only- to change*/
 .jumbotron {
 	 background-color: #b4e4b4;
 }
-
+.display-4{
+	font-weight: bold;
+}
 .form-inline {
 	float: right;
 }
 
 footer {
-	font-family: serif;
+	font: helvetica;
 	margin-bottom: 40px;
 	background-color: #b4e4b4;
 	text-align: center;
