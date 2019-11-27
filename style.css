@@ -1,14 +1,23 @@
 
 body {
 
-	font-family:serif;
+	font: helvetica;
 	margin-top: 40px;
 }
 /*Color for example only- to change*/
 .jumbotron {
-	 background-color: #b4e4b4
+	 background-color: #b4e4b4;
 }
 
 .form-inline {
 	float: right;
+}
+
+footer {
+	font-family: serif;
+	margin-bottom: 40px;
+	background-color: #b4e4b4;
+	text-align: center;
+	margin-top: 20px;
+	padding: 10px;
 }
