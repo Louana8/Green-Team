@@ -16,6 +16,10 @@ body {
 	float: right;
 }
 
+.center {
+	padding-left: 40px;
+}
+
 /*changing link colours*/
 /* unvisited link */
 a:link {
