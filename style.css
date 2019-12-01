@@ -20,6 +20,7 @@ body {
 	padding-left: 40px;
 }
 
+
 /*changing link colours*/
 /* unvisited link */
 a:link {
@@ -45,7 +46,7 @@ a:active {
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  width: 90%;
 	position: center;
 }
 
@@ -53,7 +54,7 @@ td {
   border: 1px solid #ffffff;
   text-align: left;
   padding: 8px;
-	margin: 30px;
+	margin: 40px;
 }
 
 th {
@@ -76,4 +77,13 @@ footer {
 	margin-top: 40px;
 	padding: 10px;
 	width: 100%;
+}
+
+/*social media  buttons*/
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
 }
