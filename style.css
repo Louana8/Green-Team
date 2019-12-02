@@ -8,7 +8,7 @@ body {
 /* a custom green cursor*/
 * {cursor: url(http://cur.cursors-4u.net/cursors/cur-2/cur102.cur), auto !important;}
 
-/*Color for example only- to change*/
+
 .jumbotron {
 	 background-color: #b4e4b4;
 }
@@ -18,11 +18,6 @@ body {
 .form-inline {
 	float: right;
 }
-
-.center {
-	padding-left: 40px;
-}
-
 
 /*changing link colours*/
 /* unvisited link */
@@ -83,7 +78,7 @@ footer {
 	width: 100%;
 }
 
-/*social media  buttons*/
+/*social media buttons*/
 .fa {
   padding: 10px;
   font-size: 30px;
